@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+#HULAIMG {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#HULAHULAHULA {
+    z-index: 9;
+    height: 800px;
+    background: linear-gradient(#ff0f0f 0%, #f58c0c 100%);
+    display: table;
+    width: 100%;
+    color: white;
+}
+
+.FIVTH {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.HULALINE {
+    height: 6px;
+    background-color: blueviolet;
+    width: 200px;
+    margin: 8px auto;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+#HULAMAYO {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+.HULALINK {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    float: left;
+    padding: 20px;
+}
+
+#HULAMENU {
+    z-index: 10;
+    list-style: none;
+    width: 100%;
+    background: white;
+    position: fixed;
+    cursor: pointer;
+    margin-left: 20px auto;
+    top: 0px;
+}
+#hy {
+    color: cadetblue;
+    background-color: cyan;
+}
+.HULALINK:hover{background-color: lime;}
